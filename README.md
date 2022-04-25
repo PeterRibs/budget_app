@@ -61,6 +61,6 @@ Percentage spent by category
 
 The unit tests for this project are in `test_module.py`.
 
-### Development
+### Run
 
-Write your code in `budget.py`. For development, you can use `main.py` to test your `Category` class. Click the "run" button and `main.py` will run.
+Write your code in `budget.py`. To run, you can use `main.py` to test your `Category` class.
